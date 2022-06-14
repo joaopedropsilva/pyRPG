@@ -2,4 +2,4 @@ __pycache__/
 .mypy_cache/
 .vscode/
 saves/*.txt
-save_games_info.txt
+src/structures/save_games_info.txt
