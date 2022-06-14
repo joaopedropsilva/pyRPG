@@ -1,4 +1,5 @@
 __pycache__/
 .mypy_cache/
 .vscode/
-saves/*
+saves/*.txt
+save_games_info.txt
